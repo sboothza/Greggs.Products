@@ -1,4 +1,4 @@
-# Greggs.Products
+# Greggs.Products - Stephen's Version
 ## Introduction
 Hello and welcome to the Greggs Products repository, thanks for finding it!
 
